@@ -21,7 +21,7 @@ const Home: NextPage = () => {
           options={particlesOptions}
         />
 
-        <h1 className={styles.title}>Welcome to the marketplace!</h1>
+        <h1 className="text-blue-500 text-6xl font-bold">Welcome to the marketplace!</h1>
       </main>
 
       <footer className={styles.footer}>
